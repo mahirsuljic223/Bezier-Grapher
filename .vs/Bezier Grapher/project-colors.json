@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b0d47277-6580-4936-8076-6a105e1a0a40": {
+      "ProjectGuid": "b0d47277-6580-4936-8076-6a105e1a0a40",
+      "DisplayName": "Bezier Grapher",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

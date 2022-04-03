@@ -1,0 +1,11 @@
+C:\Users\Mahir\source\repos\Bezier Grapher\Bezier Grapher\bin\Debug\Bezier Grapher.exe.config
+C:\Users\Mahir\source\repos\Bezier Grapher\Bezier Grapher\bin\Debug\Bezier Grapher.exe
+C:\Users\Mahir\source\repos\Bezier Grapher\Bezier Grapher\bin\Debug\Bezier Grapher.pdb
+C:\Users\Mahir\source\repos\Bezier Grapher\Bezier Grapher\obj\Debug\Bezier Grapher.csproj.AssemblyReference.cache
+C:\Users\Mahir\source\repos\Bezier Grapher\Bezier Grapher\obj\Debug\Bezier_Grapher.Form1.resources
+C:\Users\Mahir\source\repos\Bezier Grapher\Bezier Grapher\obj\Debug\Bezier_Grapher.Properties.Resources.resources
+C:\Users\Mahir\source\repos\Bezier Grapher\Bezier Grapher\obj\Debug\Bezier Grapher.csproj.GenerateResource.cache
+C:\Users\Mahir\source\repos\Bezier Grapher\Bezier Grapher\obj\Debug\Bezier Grapher.csproj.CoreCompileInputs.cache
+C:\Users\Mahir\source\repos\Bezier Grapher\Bezier Grapher\obj\Debug\Bezier Grapher.exe
+C:\Users\Mahir\source\repos\Bezier Grapher\Bezier Grapher\obj\Debug\Bezier Grapher.pdb
+C:\Users\Mahir\source\repos\Bezier Grapher\Bezier Grapher\obj\Debug\Bezier Grapher.csproj.SuggestedBindingRedirects.cache
